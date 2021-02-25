@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfStatementOefeningen", "IfStatementOefeningen\IfStatementOefeningen.csproj", "{09CD917F-8AB2-48D5-B1E7-6F9BD9ADD530}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09CD917F-8AB2-48D5-B1E7-6F9BD9ADD530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09CD917F-8AB2-48D5-B1E7-6F9BD9ADD530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09CD917F-8AB2-48D5-B1E7-6F9BD9ADD530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09CD917F-8AB2-48D5-B1E7-6F9BD9ADD530}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9C233B5-D5D5-4681-9233-E195D06B1F96}
+	EndGlobalSection
+EndGlobal
